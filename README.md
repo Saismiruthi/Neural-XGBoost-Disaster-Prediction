@@ -467,7 +467,7 @@ Neural-XGBoost-Disaster-Prediction/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Neural-XGBoost-Disaster-Prediction.git
+git clone https://github.com/Saismiruthi/Neural-XGBoost-Disaster-Prediction.git
 ```
 
 ```bash
@@ -519,7 +519,7 @@ python src/disaster_pred.py
 Open:
 
 ```text
-notebooks/Disaster_Prediction_Using_Neural_XGBoost.ipynb
+Notebooks/Disaster_Prediction_Using_Neural_XGBoost.ipynb
 ```
 
 Run the notebook cells sequentially to reproduce the data preprocessing, model training, evaluation, SHAP analysis, and DRSI calculations.
